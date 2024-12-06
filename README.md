@@ -56,5 +56,4 @@ Sample format for `data/borrower_data.csv`:
 | 2           | 60000  | 20000       | 720          |
 | 3           | 30000  | 10000       | 580          |
 
-## Contact
-For questions or feedback, please reach out to [Your Name](mailto:your.email@example.com).
+
